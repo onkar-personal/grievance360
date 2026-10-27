@@ -1,0 +1,23 @@
+# env
+.env
+.env.*
+!.env.example
+
+# backend
+backend/target/
+backend/storage/
+*.class
+*.log
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+*.tsbuildinfo
+
+# ide / os
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
