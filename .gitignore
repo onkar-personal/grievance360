@@ -21,3 +21,6 @@ frontend/coverage/
 *.iml
 .DS_Store
 Thumbs.db
+
+# vercel cli
+.vercel
